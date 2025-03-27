@@ -65,9 +65,6 @@ const PemiduHerath = () => {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PemiduHerath&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=F1A11E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1A11E&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PemiduHerath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" />

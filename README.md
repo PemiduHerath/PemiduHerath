@@ -25,7 +25,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,mongodb,express,nodejs,git,vscode&theme=dark" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,dart,js,react,mongodb,firebase,nodejs,git,vscode&theme=dark" alt="Tech Skills" />
 </div>
 
 ## 🧠 About Me
@@ -74,10 +74,10 @@ const PemiduHerath = () => {
 
 <div align="center">
   <a href="https://github.com/mlswijerathne/Waste-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PemiduHerath&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PemiduHerath&repo=Waste-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
   </a>
   <a href="https://github.com/KavishkaSasindu/dea_project_servlet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PemiduHerath&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PemiduHerath&repo=dea_project_servlet&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
   </a>
 </div>
 

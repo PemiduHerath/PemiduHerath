@@ -5,13 +5,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pemidu-herath" target="_blank">
+  <a href="https://www.linkedin.com/in/pemiduherath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/PemiduHerath" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:pemiduherath24176@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -47,9 +47,9 @@ const PemiduHerath = () => {
       type="Full-Stack"
       specialization="Web Application Development"
       currentlyLearning="Advanced Backend Technologies"
-      languages={["Java", "C", "JavaScript", "HTML", "CSS"]}
-      frameworks={["React.js", "Express.js"]}
-      databases={["MongoDB"]}
+      languages={["Java", "C", "Dart", "HTML", "CSS"]}
+      frameworks={["React.js", "Flutter"]}
+      databases={["MongoDB","Firebase"]}
       architectures={["RESTful API", "Microservices"]}
       funFact="Turning coffee into code, one commit at a time!"
     />
@@ -73,10 +73,10 @@ const PemiduHerath = () => {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/PemiduHerath/project1">
+  <a href="https://github.com/mlswijerathne/Waste-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PemiduHerath&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
   </a>
-  <a href="https://github.com/PemiduHerath/project2">
+  <a href="https://github.com/KavishkaSasindu/dea_project_servlet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PemiduHerath&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
   </a>
 </div>

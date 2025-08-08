@@ -25,7 +25,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=springboot,c,java,html,css,dart,js,react,mongodb,firebase,nodejs,git,vscode&theme=dark" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=spring,c,java,html,css,dart,js,react,mongodb,firebase,nodejs,git,vscode&theme=dark" alt="Tech Skills" />
 </div>
 
 ## 🧠 About Me
